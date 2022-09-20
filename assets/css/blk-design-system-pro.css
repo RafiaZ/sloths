@@ -107,6 +107,9 @@ body {
   background-color: #171941;
 }
 
+.lowerSection>.container {
+  max-width: 1340px !important;
+}
 
 .avatar-your-profile {
   width: 100px;
